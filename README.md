@@ -35,7 +35,7 @@ Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, 
 
 ## 📊 GitHub Stats
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=VampireNoob&show_icons=true&theme=dark&hide_border=true)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=VampireNoob&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VampireNoob&theme=tokyonight&hide_border=true)
 
