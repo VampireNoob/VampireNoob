@@ -1,0 +1,15 @@
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#6FE3D9" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#08080C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" fill="#08080C"/>
+  <ellipse cx="600" cy="120" rx="480" ry="200" fill="url(#glow)"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#F4F4F7">Alexander Nikel</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#8A8A93">clean code. real solutions.</text>
+  <text x="600" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#F4F4F7">Fachinformatiker für Anwendungsentwicklung · NRW, Germany</text>
+  <text x="600" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8A8A93">Fullstack · sofort verfügbar · offen für Remote/Hybrid</text>
+</svg>
