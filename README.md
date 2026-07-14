@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alexander Nikel
+<img src="banner.svg" width="100%">
 ### clean code. real solutions.
 
 </div>
