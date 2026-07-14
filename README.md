@@ -20,7 +20,7 @@ alexander@dev:~$ ./status.sh
 > ort: NRW · vor Ort, remote oder hybrid
 ```
 
-Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, Probleme bis zum Ende durchzudenken statt sie nur zu umschiffen — mehr davon in meinem [Portfolio](https://vampirenoob.github.io/Mein-Portfolio/).
+Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, Probleme bis zum Ende durchzudenken statt sie nur zu umschiffen, mehr davon in meinem [Portfolio](https://vampirenoob.github.io/Mein-Portfolio/).
 
 ## 🛠️ Sprachen & Technologien
 
