@@ -24,10 +24,10 @@ Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, 
 ## 🛠️ Sprachen & Technologien
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,java,spring,nodejs,python,postgres,sqlite,supabase,netlify,git,figma)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com)
 
 ## 📌 Ausgewählte Projekte
 
+- 🎫 **[MiniTicketSystem](https://github.com/VampireNoob/MiniTicketSystem)** — Ticketsystem mit Spring Boot: REST-API + Web-Oberfläche, Status-Workflow, Prioritäts-basierte "Nächstes Ticket"-Anzeige
 - 🛒 **[Nerd's Computer Shop](https://github.com/VampireNoob/Nerd-s-ComputerShop)** — React/Redux-Shop mit Auth0-Login und echter Stripe-Zahlungsabwicklung
 - 🦊 **[Fox Online Shop](https://github.com/VampireNoob/Fox-Online-Shop)** — Kinderfreundlicher Games-Shop, React + Stripe
 - 🚗 **[GTA Garage Manager](https://github.com/VampireNoob/GTAGarageManager)** — Blazor Server + Supabase, live gehostet mit eigenem SSL
