@@ -23,7 +23,8 @@ Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, 
 
 ## 🛠️ Sprachen & Technologien
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,nodejs,python,postgres,sqlite,git,figma)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,java,spring,nodejs,python,postgres,sqlite,supabase,netlify,git,figma)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com)
 
 ## 📌 Ausgewählte Projekte
 
