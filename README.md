@@ -33,10 +33,6 @@ Auf der Suche nach meinem ersten Entwicklerjob nach der Umschulung. Ich mag es, 
 - 🚗 **[GTA Garage Manager](https://github.com/VampireNoob/GTAGarageManager)** — Blazor Server + Supabase, live gehostet mit eigenem SSL
 - 📈 **[Steam Price Tracker](https://github.com/VampireNoob/Steam-Price-Tracker)** — Python-Tool, das Preisänderungen per Telegram meldet
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VampireNoob&theme=tokyonight&hide_border=true)
-
 ## 🎯 Gerade unterwegs
 
 - 💼 Bewerbungsphase — Fullstack-/Software-/Anwendungsentwicklung in NRW
